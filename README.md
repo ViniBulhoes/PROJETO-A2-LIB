@@ -169,6 +169,7 @@ Utilizei o Claude (Anthropic) como apoio neste projeto, nas seguintes tarefas:
 - propor a organização do projeto em camadas (routes, controllers, services e repository);
 - gerar uma versão de referência do código e dos testes com Jest/Supertest, além de um rascunho deste README;
 - sugerir os valores aceitos para `tipo`, `prioridade` e as transições do `status`.
+- ajuda com as mensagens de commit e a manter a ordem certa na hora de subir para o github no final do projeto
 
 A partir dessa versão de referência, eu reescrevi o código e os testes no meu computador, li cada arquivo, rodei `npm test`, testei as rotas no Postman e revisei o README antes de entregar. Reconheço que a estrutura e a lógica têm origem na sugestão da IA e que sou responsável por entender, explicar e corrigir tudo o que está no repositório.
 
